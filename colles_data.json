@@ -6,13 +6,23 @@
             "nom": "John Doe"
         },
         {
-            "nom": "Jeannine Buisson",
-            "sujet": "Le rôle de l'État dans la régulation des marchés financiers"
+            "nom": "Jeannine Buisson"
         },
         {
-            "nom": "Emmanuel Camron",
-            "date": "2026-11-14",
-            "sujet": "Inflation et politique monétaire dans la zone euro"
+            "nom": "Emmanuel Camron"
+        },
+        {
+            "nom": "Eleve4"
+        },
+        {
+            "nom": "Eleve5";
+            "sujet": "sujet2";
+        },
+        {
+            "nom": "Eleve6";
+            "sujet": "sujet2";
+
         }
+        
     ]
 }
