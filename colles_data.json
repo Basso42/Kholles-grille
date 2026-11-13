@@ -1,0 +1,18 @@
+{
+    "default_date": "2026-11-13",
+    "default_sujet": "La croissance économique est-elle compatible avec la préservation de l'environnement ?",
+    "etudiants": [
+        {
+            "nom": "John Doe"
+        },
+        {
+            "nom": "Jeannine Buisson",
+            "sujet": "Le rôle de l'État dans la régulation des marchés financiers"
+        },
+        {
+            "nom": "Emmanuel Camron",
+            "date": "2026-11-14",
+            "sujet": "Inflation et politique monétaire dans la zone euro"
+        }
+    ]
+}
